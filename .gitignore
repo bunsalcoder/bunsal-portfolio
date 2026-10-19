@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Private CV documents (local only — not pushed to git)
+docs/
+
+# Environment secrets
+.env
+.env.local
+.env.*.local
+
+# Build output
+dist/
+build/
